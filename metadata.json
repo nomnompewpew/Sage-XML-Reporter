@@ -1,0 +1,5 @@
+{
+  "name": "Sage EAS XML to Excel Splitter",
+  "description": "Intelligent tool to parse Sage EAS XML exports and split them into monthly Excel reports organized by folder structure.",
+  "requestFramePermissions": []
+}
