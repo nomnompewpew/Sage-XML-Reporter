@@ -1,5 +1,5 @@
 <div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://iliadmediagroup.com/images/sagexml/sagexml.jpeg" />
+<img width="1200" height="475" alt="GHBanner" src="https://dev.iliadmediagroup.com/images/sagexml/sagexml.jpeg" />
 </div>
 
 # Run and deploy your AI Studio app
