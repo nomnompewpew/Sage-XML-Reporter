@@ -10,9 +10,12 @@ Download the Zip and extract...
 
 ## Run Locally via CLI or in a code editor/debugger like VSC
 
-**Prerequisites:**  
+**Prerequisites:**
+
 Node.js
+
 A Gemini API Key (easily obtained from most Google accounts by visiting: https://aistudio.google.com/apps
+
 Sage Endec with Firmware that outputs XML reports
 
 1. Install dependencies:
