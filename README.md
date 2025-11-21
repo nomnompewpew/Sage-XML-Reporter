@@ -19,9 +19,9 @@ Sage Endec with Firmware that outputs XML reports
    `npm install`
 2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
 
-   _Create .env.local if it doesn't exist and create this entry:
+   Create .env.local if it doesn't exist and create this entry:
   
-   GEMINI_API_KEY="YourApiKeyBetweenQuotes"_
+   GEMINI_API_KEY="YourApiKeyBetweenQuotes"
    
 5. Run the app:
    `npm run dev`
