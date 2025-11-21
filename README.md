@@ -2,13 +2,13 @@
 <img width="1200" height="475" alt="GHBanner" src="https://dev.iliadmediagroup.com/images/sagexml/sagexml.jpeg" />
 </div>
 
-# Run and deploy your AI Studio app
+# Run and Deploy Sage XML Reporter:
 
 This contains everything you need to run your app locally.
 
-View your app in AI Studio: https://ai.studio/apps/drive/1D8KlRana4-oXYPle_kWhXKoPPNqxjckV
+Download the Zip and extract...
 
-## Run Locally
+## Run Locally via CLI or in a code editor/debugger like VSC
 
 **Prerequisites:**  Node.js
 
