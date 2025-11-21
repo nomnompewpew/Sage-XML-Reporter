@@ -18,6 +18,8 @@ A Gemini API Key (easily obtained from most Google accounts by visiting: https:/
 
 Sage Endec with Firmware that outputs XML reports
 
+**Install**
+
 1. Install dependencies:
    `npm install`
 2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
